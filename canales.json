@@ -3,14 +3,6 @@
     "name": "EVENTOS IMPORTANTES EN VIVO ?Activo cuando hay transmisiones exclusivas?",
     "samples": [
       {
-        "name": "Pruabtv",
-        "url": "https://tvtvhd.com/canales.php?stream=espn",
-        "type": "WEBVIEW",
-        "icono": "https://tvtvhd.com/.png",
-        "drm_license_uri": "",
-        "oculto": false
-      },
-      {
         "name": "Eventos 1",
         "url": "https://sam-py-edge07.tigo.com.py/ccur-session/6a070eb182/rolling-buffer/TigoSP4_WM/TigoSP4_WM/transmux/index.mpd",
         "type": "CLEARKEY",
@@ -43,6 +35,14 @@
           "Referer": "https://nia.znte6btheedu75kdriver.shop/",
           "User-Agent": "mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "Pruabtv",
+        "url": "https://tvtvhd.com/canales.php?stream=espn",
+        "type": "WEBVIEW",
+        "icono": "https://tvtvhd.com/.png",
+        "drm_license_uri": "",
+        "oculto": false
       },
       {
         "name": "Eventos 4 vivo",
